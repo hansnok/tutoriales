@@ -199,7 +199,7 @@ function dohide(num) {
     					    <div class="fondo">
     							<a class="cerrar" href = "javascript:void(0)" onclick = "dohide(8)">Cerrar</a>
     						</div>
-    						<iframe width="100%" height="90%" src="//www.youtube.com/embed/HqA-3jMJoyI" frameborder="0"></iframe>
+    						<iframe width="100%" height="90%" src="//www.youtube.com/embed/fSeOFUzobWA" frameborder="0"></iframe>
     					</div>
     					<div id="fade8" class="black_overlay"></div>
     				</td>
@@ -213,20 +213,21 @@ function dohide(num) {
 				<tr>
 					<td class="flecha" width="10%" height="50%"></td>
 					<td>
-						<a class="titulo" href= "javascript:void(0)" onclick = "doshow(9)">Creaci&oacute;n de r&uacute;brica para m&oacute;dulo Emarking</a>
+						<a class="titulo" href= "javascript:void(0)" onclick = "doshow(9)">Publicaci&oacute;n digitalizada</a>
 						<div class="nivel">Nivel Medio</div>
-						<div class="resumen">R&uacute;brica de correcci&oacute;n para pruebas en nuevo m&oacute;dulo Emarking</div>
+						<div class="resumen">Modalidad simple que implica correcci&oacute;n manual</div>
 						<div id="light9" class="white_content">
 							<div class="fondo">
 								<a class="cerrar" href="javascript:void(0)" onclick="dohide(9)">Cerrar</a>
 							</div>
-							<iframe width="100%" height="90%" src="//www.youtube.com/embed/yHUkeo8-YZM" frameborder="0"></iframe>
+							<iframe width="100%" height="90%" src="//www.youtube.com/embed/4EUqak9ton4" frameborder="0"></iframe>
 						</div>
 						<div id="fade9" class="black_overlay"></div>
 					</td>
 				</tr>
 				</table>
 			</td>
+			
                          <td width="50%" height="20%">
                                  <table>
                                  <tr>
@@ -263,6 +264,26 @@ function dohide(num) {
                                                          <iframe width="100%" height="90%" src="//www.youtube.com/embed/ZYYp8AuWwtI?list=UUj20d97aKjQchHl38yLYFCg" frameborder="0"></iframe>
                                                  </div>
                                                  <div id="fade11" class="black_overlay"></div>
+                                         </td>
+                                
+                                 </tr>
+                                 </table>
+                         </td>
+                          <td width="50%" height="20%">
+                                 <table>
+                                 <tr>
+                                         <td class="flecha" width="10%" height="50%"></td>
+                                         <td>
+                                                 <a class="titulo" href= "javascript:void(0)" onclick = "doshow(12)">EMARKING: CORRECI&Oacute;N EN PANTALLA</a>
+                                                 <div class="nivel">Nivel Medio</div>
+                                                 <div class="resumen">Modalidad completa del sistema que permite corregir en l&iacute;nea</div>
+                                                 <div id="light12" class="white_content">
+												<div class="fondo">
+													<a class="cerrar" href="javascript:void(0)" onclick="dohide(12)">Cerrar</a>
+												</div>
+												<iframe width="100%" height="90%" src="//www.youtube.com/embed/jXHASpqJwDE" frameborder="0"></iframe>
+											</div>
+											<div id="fade12" class="black_overlay"></div>
                                          </td>
                                 
                                  </tr>
