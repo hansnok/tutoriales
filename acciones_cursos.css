@@ -1,0 +1,10 @@
+@CHARSET "ISO-8859-1";
+.slidingDiv{
+height:1000px;
+padding:20px;
+margin-top:0px;
+}
+
+.glyphicon.glyphicon-pencil {
+    font-size: 125px;
+}

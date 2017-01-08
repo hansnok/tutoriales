@@ -166,12 +166,12 @@ a.dest:hover div
 {
     background-color: #000;
     height:80px;
-    width:1024px;
+    width:100%;
     margin-left:auto;
 	margin-right:auto;
 	font-size: 1em;
-
-
+	bottom:0;
+	margin:0; padding:0;
 }
 .footer
 {
