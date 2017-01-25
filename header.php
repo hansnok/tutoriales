@@ -6,19 +6,17 @@
 </head>
 <nav class="navbar navbar-default navbar-fixed-top">
     <div class="navbar-header">
-        <a href="portada2.php" class="navbar-brand" href="#">WebC Tutoriales</a>
+        <a href="index.php" class="navbar-brand"><b>WebC Tutoriales</b></a>
     </div>
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav">
 	        <li class="dropdown">
 	            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Roles<b class="caret"></b></a>
 	            <ul class="dropdown-menu">
-		            <li><a href="ejemplo_profesores.php">Profesores</a></li>
-		            <li><a href="#">Coordinadores</a></li>
-		            <li><a href="#">Ayudantes</a></li>
-		            <li><a href="#">Alumnos</a></li>
-		            <li class="divider"></li>
-		            <li><a href="#">Preguntas Frecuentes</a></li>
+		            <li><a href="coordinadores.php">Coordinadores</a></li>
+		            <li><a href="profesores.php">Profesores</a></li>
+		            <li><a href="ayudantes.php">Ayudantes</a></li>
+		            <li><a href="alumnos.php">Alumnos</a></li>
 	            </ul>
 	        </li>
 	        <li> <a href="http://webcursos.uai.cl/">Webcursos</a></li>
