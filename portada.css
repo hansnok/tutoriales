@@ -1,0 +1,41 @@
+@CHARSET "ISO-8859-1";
+  .bg-1 { 
+      background-color: #00AEEF;
+      color: #ffffff;
+      padding-bot:90px;
+  }
+  .bg-2 { 
+      background-color: #474e5d; /* Dark Blue */
+      color: #ffffff;
+  }
+  .bg-3 { 
+      background-color: #ffffff; /* White */
+      color: #555555;
+  }
+  .bg-4 { 
+      background-color: #2f2f2f; /* Black Gray */
+      color: #fff;
+  }
+  .container {
+      padding-top: 30px;
+      padding-bottom: 50px;
+  }
+.glyphicon.glyphicon-blackboard{
+    font-size: 125px;
+      color: #ffffff;
+}
+.glyphicon.glyphicon-paperclip{
+    font-size: 115px;
+      color: #ffffff;
+}
+.glyphicon.glyphicon-pencil{
+    font-size: 115px;
+      color: #ffffff;
+}
+.glyphicon.glyphicon-book{
+    font-size: 115px;
+      color: #ffffff;
+}
+.rol{
+	font-size:35px !important;
+}
