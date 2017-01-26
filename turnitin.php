@@ -9,7 +9,7 @@
 <div class="container">
 			<div class="row">
 				<div class="col-md-6">
-					<br><img src="images/Turnitin.png" class="img-responsive margin" style="display:inline" width="800" height="800" alt="Image"><br><br>
+					<br><img src="images/Turnitin.PNG" class="img-responsive margin" style="display:inline" width="800" height="800" alt="Image"><br><br>
 				</div>
 				<div class="col-md-6 text-justify">
 					<p><h4>TURNITIN es un recurso disponible para los profesores que les permite someter a revisi&oacute;n los trabajos subidos por sus alumnos, de manera tal de poder saber el porcentaje de similitud que tienen unos con otros, y a la vez con otros documentos disponibles en internet. Pudiendo eventualmente detectarse una copia. </h4></p>

@@ -12,7 +12,7 @@
         				<div class="panel-body">
         					<div class="row">
 								<div class="col-md-7">
-									<img src="images/Crear_Rubrica_1.png" class="img-responsive margin" style="display:inline" width="600" height="600" alt="Image"><br>
+									<img src="images/Crear_Rubrica_1.PNG" class="img-responsive margin" style="display:inline" width="600" height="600" alt="Image"><br>
 								</div>
 								<div class="col-md-5">
 									<h5>Para crear una r&uacute;brica, primero debemos haber creado el recurso "E-marking" en nuestro curso y haber seleccionando la opci&oacute;n "Correcci&oacute;n en pantalla".</h5>
@@ -21,7 +21,7 @@
         					<hr class="featurette-divider"/>
         					<div class="row">
         						<div class="col-md-7">
-        							<img src="images/Crear_Rubrica_2.png" class="img-responsive margin" style="display:inline" width="600" height="600" alt="Image"><br>
+        							<img src="images/Crear_Rubrica_2.PNG" class="img-responsive margin" style="display:inline" width="600" height="600" alt="Image"><br>
         						</div>
         						<div class="col-md-5">
         							<h5>Luego de subir la evaluaci&oacute;n y escoger todas las configuraciones, debemos ingresar a la evaluaci&oacute;n y dar click en "Crear r&uacute;brica".</h5>
@@ -30,7 +30,7 @@
         					<hr class="featurette-divider"/>
         					<div class="row">
         						<div class="col-md-7">
-        							<img src="images/Crear_Rubrica_3.png" class="img-responsive margin" style="display:inline" width="600" height="600" alt="Image"><br>
+        							<img src="images/Crear_Rubrica_3.PNG" class="img-responsive margin" style="display:inline" width="600" height="600" alt="Image"><br>
         						</div>
         						<div class="col-md-5">
         							<h5>Una vez dentro, nos dar&aacute; la opci&oacute;n de crear una desde cero o de una planilla creada previamente, para este ejemplo partiremos desde cero.</h5>
@@ -39,7 +39,7 @@
         					<hr class="featurette-divider"/>
         					<div class="row">
         						<div class="col-md-7">
-        							<img src="images/Crear_Rubrica_4.png" class="img-responsive margin" style="display:inline" width="600" height="600" alt="Image"><br>
+        							<img src="images/Crear_Rubrica_4.PNG" class="img-responsive margin" style="display:inline" width="600" height="600" alt="Image"><br>
         						</div>
         						<div class="col-md-5">
         							<h5>La plataforma nos pedir&aacute; crear un nombre y una descripci&oacute;n para la r&uacute;brica, un poco m&aacute;s abajo veremos la opci&oacute;n de editar los criterios de evaluaci&oacute;n en la secci&oacute;n "R&uacute;brica".<br><br>
@@ -51,7 +51,7 @@
         					<hr class="featurette-divider"/>
       						<div class="row">
       							<div class="col-md-7">
-      								<img src="images/Crear_Rubrica_5.png" class="img-responsive margin" style="display:inline" width="600" height="600" alt="Image"><br>
+      								<img src="images/Crear_Rubrica_5.PNG" class="img-responsive margin" style="display:inline" width="600" height="600" alt="Image"><br>
       							</div>
       							<div class="col-md-5">
       								<h5>Si estamos conformes con la r&uacute;brica hacemos click en "Publicar el formulario como una nueva plantilla".<br>
@@ -72,7 +72,7 @@
         				<div class="panel-body">
         					<div class="row">
         						<div class="col-md-7">
-        							<img src="images/Importar_Rubrica_1.png" class="img-responsive margin" style="display:inline" width="600" height="600" alt="Image"><br>
+        							<img src="images/Importar_Rubrica_1.PNG" class="img-responsive margin" style="display:inline" width="600" height="600" alt="Image"><br>
         						</div>
         						<div class="col-md-5">
 									<h5>Luego de crear el recurso de "E-marking" en nuestro curso y haber seleccionado
@@ -83,7 +83,7 @@
         					<hr class="featurette-divider"/>
         					<div class="row">
         						<div class="col-md-7">
-        							<img src="images/Importar_Rubrica_2.png" class="img-responsive margin" style="display:inline" width="350" height="350" alt="Image"><br>
+        							<img src="images/Importar_Rubrica_2.PNG" class="img-responsive margin" style="display:inline" width="350" height="350" alt="Image"><br>
         						</div>
         						<div class="col-md-5">
         							<h5>Tal como nos informa la plataforma, debemos tener creada previamente nuestra r&uacute;brica en Excel. En esta secci&oacute;n debemos copiar desde
@@ -93,7 +93,7 @@
         					<hr class="featurette-divider"/>
         					<div class="row">
         						<div class="col-md-7">
-        							<img src="images/Importar_Rubrica_3.png" class="img-responsive margin" style="display:inline" width="600" height="600" alt="Image"><br>
+        							<img src="images/Importar_Rubrica_3.PNG" class="img-responsive margin" style="display:inline" width="600" height="600" alt="Image"><br>
         						</div>
         						<div class="col-md-5">
         							<h5>Seleccionamos las celdas y las pegamos en el cuadro de texto y finalmente damos click a "Enviar".</h5>
@@ -102,7 +102,7 @@
         					<hr class="featurette-divider"/>
         					<div class="row">
         						<div class="col-md-7">
-        							<img src="images/Importar_Rubrica_4.png" class="img-responsive margin" style="display:inline" width="600" height="600" alt="Image"><br>
+        							<img src="images/Importar_Rubrica_4.PNG" class="img-responsive margin" style="display:inline" width="600" height="600" alt="Image"><br>
         						</div>
         						<div class="col-md-5">
         							<h5>Posterior a esto, se nos mostrar&aacute; la forma en la que qued&oacute; nuestra r&uacute;brica junto con la opci&oacute;n de editarla o confirmar su creaci&oacute;n de estar conformes.<br><br>
@@ -122,7 +122,7 @@
         				<div class="panel-body">
         					<div class="row">
 								<div class="col-md-7">
-									<img src="images/Compartir_Rubrica.png" class="img-responsive margin" style="display:inline" width="600" height="600" alt="Image"><br>
+									<img src="images/Compartir_Rubrica.PNG" class="img-responsive margin" style="display:inline" width="600" height="600" alt="Image"><br>
 								</div>
 								<div class="col-md-5">
 									<h5>Luego de haber creado nuestra r&uacute;brica en Webcursos o mediante una importaci&oacute;n desde un Excel, la plataforma nos dirigir&aacute; a una p&aacute;gina que nos ofrece la opci&oacute;n de editar, eliminar o publicar la r&uacute;brica creada, damos click a "Publicar el formulario como una nueva plantilla".<br><br>

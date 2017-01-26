@@ -15,7 +15,7 @@
 							<div class="panel-body">
 								<div class="row">
 									<div class="col-md-7">
-										<img src="images/Notas_1.png" class="img-responsive margin"
+										<img src="images/Notas_1.PNG" class="img-responsive margin"
 											style="display: inline" width="300" height="300" alt="Image"><br>
 									</div>
 									<div class="col-md-5 text-justify">
@@ -40,7 +40,7 @@
 							<div class="panel-body">
 								<div class="row">
 									<div class="col-md-7">
-										<img src="images/Notas_2.png" class="img-responsive margin"
+										<img src="images/Notas_2.PNG" class="img-responsive margin"
 											style="display: inline" width="800" height="800" alt="Image"><br>
 									</div>
 									<div class="col-md-5 text-justify">
@@ -70,7 +70,7 @@
 							<div class="panel-body">
 								<div class="row">
 									<div class="col-md-7">
-										<img src="images/Notas_3.png" class="img-responsive margin"
+										<img src="images/Notas_3.PNG" class="img-responsive margin"
 											style="display: inline" width="800" height="800" alt="Image"><br>
 									</div>
 									<div class="col-md-5 text-justify">

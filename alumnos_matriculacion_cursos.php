@@ -51,7 +51,7 @@
       				<div id="Matricularse1" class="panel-collapse collapse in">
         				<div class="panel-body">
         					<div class="col-md-7">
-        						<img src="images/Alumnos_Matricularse_1.png" class="img-responsive margin" style="display:inline" width="500" height="500" alt="Image"><br>
+        						<img src="images/Alumnos_Matricularse_1.PNG" class="img-responsive margin" style="display:inline" width="500" height="500" alt="Image"><br>
         					</div>
         					<div class="col-md-5 text-justify">
 								<h5>Ingresar a la plataforma de Webcursos y buscar el curso en el cual se desea matricular.</h5>
@@ -69,7 +69,7 @@
         				<div class="panel-body">
         					<div class="row">
             					<div class="col-md-7">
-        							<img src="images/Alumnos_Matricularse_2.png" class="img-responsive margin" style="display:inline" width="450" height="450" alt="Image"><br>
+        							<img src="images/Alumnos_Matricularse_2.PNG" class="img-responsive margin" style="display:inline" width="450" height="450" alt="Image"><br>
         						</div>
         						<div class="col-md-5 text-justify">
        			 					<h5>Seleccionar el curso en el cual el alumno se desea matricular.</h5>
@@ -78,7 +78,7 @@
        						<hr class="featurette-divider"/>
        						<div class="row">
        							<div class="col-md-7">
-       								<img src="images/Alumnos_Matricularse_3.png" class="img-responsive margin" style="display:inline" width="450" height="450" alt="Image"><br>
+       								<img src="images/Alumnos_Matricularse_3.PNG" class="img-responsive margin" style="display:inline" width="450" height="450" alt="Image"><br>
        							</div>
        							<div class="col-md-5 text-justify">
        								<h5>Finalmente realizar la auto-matriculaci&oacute;n del curso, haciendo click en "Matricularme".</h5>
@@ -105,7 +105,7 @@
         				<div class="panel-body">
         					<div class="row">
         						<div class="col-md-7">
-        							<img src="images/Alumnos_Desmatricularse_1.png" class="img-responsive margin" style="display:inline" width="450" height="450" alt="Image"><br>
+        							<img src="images/Alumnos_Desmatricularse_1.PNG" class="img-responsive margin" style="display:inline" width="450" height="450" alt="Image"><br>
         						</div>
         						<div class="col-md-5 text-justify">
         							<h5>Ingresar a la plataforma de Webcursos y seleccionar el curso del cual se desea dar la baja.</h5>
@@ -124,7 +124,7 @@
         				<div class="panel-body">
             				<div class="row">
         						<div class="col-md-7">
-        							<img src="images/Alumnos_Desmatricularse_2.png" class="img-responsive margin" style="display:inline" width="600" height="300" alt="Image"><br>
+        							<img src="images/Alumnos_Desmatricularse_2.PNG" class="img-responsive margin" style="display:inline" width="600" height="300" alt="Image"><br>
         						</div>
         						<div class="col-md-5 text-justify">
         							<h5>Ir al bloque de administraci�n y hacer click en "Darme de Baja de...".</h5>

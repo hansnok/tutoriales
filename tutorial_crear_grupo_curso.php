@@ -12,7 +12,7 @@
         				<div class="panel-body">
         					<div class="row">
 								<div class="col-md-7">
-									<img src="images/Crear_Grupos_1.png" class="img-responsive margin" style="display:inline" width="350" height="350" alt="Image"><br>
+									<img src="images/Crear_Grupos_1.PNG" class="img-responsive margin" style="display:inline" width="350" height="350" alt="Image"><br>
 								</div>
 								<div class="col-md-5 text-justify">
 									<h5><ul>
@@ -35,7 +35,7 @@
         				<div class="panel-body">
             				<div class="row">
             					<div class="col-md-7">
-            						<img src="images/Crear_Grupos_2.png" class="img-responsive margin" style="display:inline" width="350" height="350" alt="Image"><br>
+            						<img src="images/Crear_Grupos_2.PNG" class="img-responsive margin" style="display:inline" width="350" height="350" alt="Image"><br>
             					</div>
             					<div class="col-md-5 text-justify">
         							<ul>

@@ -12,7 +12,7 @@
         				<div class="panel-body">
         					<div class="row">
         						<div class="col-md-7">
-        							<img src="images/Turnitin_5.png" class="img-responsive margin" style="display:inline" width="800" height="800" alt="Image"><br>
+        							<img src="images/Turnitin_5.PNG" class="img-responsive margin" style="display:inline" width="800" height="800" alt="Image"><br>
         						</div>
         						<div class="col-md-5 text-justify">
         							<h5>En el &iacute;tem similitud autom&aacute;ticamente dar&aacute; el porcentaje de copia que pueda existir en este trabajo, este se debe revisar, ya que el alumno tambi&eacute;n puede haber "citado" a alg&uacute;n autor.</h5>
@@ -31,7 +31,7 @@
         				<div class="panel-body">
             				<div class="row">
         						<div class="col-md-7">
-        							<img src="images/Turnitin_6.png" class="img-responsive margin" style="display:inline" width="800" height="800" alt="Image"><br>
+        							<img src="images/Turnitin_6.PNG" class="img-responsive margin" style="display:inline" width="800" height="800" alt="Image"><br>
         						</div>
         						<div class="col-md-5 text-justify">
         							<h5>Al revisar el trabajo, Turnitin arrojara las copias que puedan surgir en este, la plataforma entrega la p&aacute;gina, libro, o trabajo anterior del cual fue copiado el trabajo.<br><br>

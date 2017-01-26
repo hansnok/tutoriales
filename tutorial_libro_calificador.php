@@ -1,6 +1,6 @@
 			<div id="Libro" class="row">
 				<div class="well">
-					Libro
+					Libro Calificador
 				</div>
 				<div class="container">
 					<div class="panel-group" id="collapsible_Libro">
@@ -17,7 +17,7 @@
 								<div class="panel-body">
 									<div class="row">
 										<div class="col-md-7">
-											<img src="images/Libro_calificador_1.png"
+											<img src="images/Libro_calificador_1.PNG"
 												class="img-responsive margin" style="display: inline"
 												width="400" height="400" alt="Image"><br>
 										</div>
@@ -43,7 +43,7 @@
 								<div class="panel-body">
 									<div class="row">
 										<div class="col-md-7">
-											<img src="images/Libro_calificador_2.png"
+											<img src="images/Libro_calificador_2.PNG"
 												class="img-responsive margin" style="display: inline"
 												width="800" height="800" alt="Image"><br>
 										</div>

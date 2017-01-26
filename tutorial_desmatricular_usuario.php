@@ -12,7 +12,7 @@
         				<div class="panel-body">
         					<div class="row">
         						<div class="col-md-7">
-									<img src="images/Matricular_usuarios_curso_1.png" class="img-responsive margin" style="display:inline" width="400" height="400" alt="Image"><br>
+									<img src="images/Matricular_usuarios_curso_1.PNG" class="img-responsive margin" style="display:inline" width="400" height="400" alt="Image"><br>
 								</div>
 								<div class="col-md-5 text-justify">
 									<h5>Primero debe ingresar al curso al que se desea matricular al usuario<br><br>
@@ -34,7 +34,7 @@
         				<div class="panel-body">
             				<div class="row">
 								<div class="col-md-7">
-									<img src="images/Desmatricular_1.png" class="img-responsive margin" style="display:inline" width="800" height="800" alt="Image"><br>
+									<img src="images/Desmatricular_1.PNG" class="img-responsive margin" style="display:inline" width="800" height="800" alt="Image"><br>
 								</div>
 								<div class="col-md-5 text-justify">
 									<h5>Se abrir&aacute; una lista con los usuarios ya matriculados en el curso. Luego, se debe buscar al usuario a trav&eacute;s de su correo uai o nombre y apellido, y en la parte izquierda del usuario se deber&aacute; hacer click en la X.</h5>
@@ -53,7 +53,7 @@
         				<div class="panel-body">
             				<div class="row">
 								<div class="col-md-7">
-									<img src="images/Desmatricular_2.png" class="img-responsive margin" style="display:inline" width="800" height="800" alt="Image"><br>
+									<img src="images/Desmatricular_2.PNG" class="img-responsive margin" style="display:inline" width="800" height="800" alt="Image"><br>
 								</div>
 								<div class="col-md-5 text-justify">
 									<h5>Finalmente aceptar la acci&oacute;n.</h5>

@@ -15,7 +15,7 @@
 							<div class="panel-body">
 								<div class="row">
 									<div class="col-md-7">
-										<img src="images/Agregar_actividad_1.png"
+										<img src="images/Agregar_actividad_1.PNG"
 											class="img-responsive margin" style="display: inline"
 											width="200" height="200" alt="Image"><br>
 									</div>
@@ -39,7 +39,7 @@
 							<div class="panel-body">
 								<div class="row">
 									<div class="col-md-7">
-										<img src="images/Agregar_actividad.png"
+										<img src="images/Agregar_actividad.PNG"
 											class="img-responsive margin" style="display: inline"
 											width="800" height="800" alt="Image"><br>
 									</div>
@@ -65,7 +65,7 @@
 							<div class="panel-body">
 								<div class="row">
 									<div class="col-md-7">
-										<img src="images/Encuesta_1.png" class="img-responsive margin"
+										<img src="images/Encuesta_1.PNG" class="img-responsive margin"
 											style="display: inline" width="800" height="800" alt="Image"><br>
 									</div>
 									<div class="col-md-5 text-justify">
@@ -89,7 +89,7 @@
 							<div class="panel-body">
 								<div class="row">
 									<div class="col-md-7">
-										<img src="images/Encuesta_2.png" class="img-responsive margin"
+										<img src="images/Encuesta_2.PNG" class="img-responsive margin"
 											style="display: inline" width="800" height="800" alt="Image"><br>
 									</div>
 									<div class="col-md-5 text-justify">
@@ -115,7 +115,7 @@
 							<div class="panel-body">
 								<div class="row">
 									<div class="col-md-7">
-										<img src="images/Encuesta_3.png" class="img-responsive margin"
+										<img src="images/Encuesta_3.PNG" class="img-responsive margin"
 											style="display: inline" width="800" height="800" alt="Image"><br>
 									</div>
 									<div class="col-md-5 text-justify">
@@ -140,7 +140,7 @@
 							<div class="panel-body">
 								<div class="row">
 									<div class="col-md-7">
-										<img src="images/Encuesta_4.png" class="img-responsive margin"
+										<img src="images/Encuesta_4.PNG" class="img-responsive margin"
 											style="display: inline" width="800" height="800" alt="Image"><br>
 									</div>
 									<div class="col-md-5 text-justify">
@@ -165,7 +165,7 @@
 							<div class="panel-body">
 								<div class="row">
 									<div class="col-md-7">
-										<img src="images/Encuesta_5.png" class="img-responsive margin"
+										<img src="images/Encuesta_5.PNG" class="img-responsive margin"
 											style="display: inline" width="800" height="800" alt="Image"><br>
 									</div>
 									<div class="col-md-5 text-justify">

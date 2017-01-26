@@ -12,7 +12,7 @@
         					<div class="panel-body">
         						<div class="row">
 									<div class="col-md-7">
-										<img src="images/Agregar_actividad_1.png" class="img-responsive margin" style="display:inline" width="200" height="200" alt="Image"><br>
+										<img src="images/Agregar_actividad_1.PNG" class="img-responsive margin" style="display:inline" width="200" height="200" alt="Image"><br>
 									</div>
 									<div class="col-md-5 text-justify">
 										<h5>Para agregar una actividad o recurso debemos ingresar al curso en el cual deseamos agregarla. Una vez dentro, en la esquina superior derecha hacemos clic en "Activar edici&oacute;n".</h5>
@@ -31,7 +31,7 @@
         					<div class="panel-body">
         						<div class="row">
 									<div class="col-md-7">
-										<img src="images/Agregar_actividad.png" class="img-responsive margin" style="display:inline" width="800" height="800" alt="Image"><br>
+										<img src="images/Agregar_actividad.PNG" class="img-responsive margin" style="display:inline" width="800" height="800" alt="Image"><br>
 									</div>
 									<div class="col-md-5 text-justify">
 										<h5>Luego, buscamos la semana o tema en el cual deseamos agregar el recurso, y en la esquina inferior derecha damos click en "A&ntilde;adir una actividad o recurso".</h5>
@@ -50,7 +50,7 @@
         					<div class="panel-body">
         						<div class="row">
 									<div class="col-md-7">
-										<img src="images/Agregar_actividad_3.png" class="img-responsive margin" style="display:inline" width="800" height="800" alt="Image"><br>
+										<img src="images/Agregar_actividad_3.PNG" class="img-responsive margin" style="display:inline" width="800" height="800" alt="Image"><br>
 									</div>
 									<div class="col-md-5 text-justify">
 										<h5>Nos aparecer&aacute; una ventana con todas las opciones de actividades y recursos que podemos configurar, debemos seleccionar la que deseamos y damos click en "Agregar".</h5>
