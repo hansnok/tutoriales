@@ -1,6 +1,6 @@
 	<hr id="Matricular" class="featurette-divider"/><br>
 	<div class="row">
-		<div class="well">Matricular Usuarios al curso</div>
+		<div class="well"><span class="glyphicon glyphicon-user tutorial"></span> Matricular Usuarios al curso</div>
 			 <div class="container">
   				<div class="panel-group" id="collapsible_Matricular">
     				<div class="panel">

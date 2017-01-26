@@ -1,6 +1,6 @@
 			<div id="Foro" class="row">
 				<div class="well">
-					Como funciona el foro
+					<span class="glyphicon glyphicon-comment tutorial"></span> Como funciona el foro
 				</div>
 				<div class="container">
 					<div class="panel-group" id="collapsible_Foro">

@@ -1,5 +1,5 @@
 <div id="Enlace" class="row">
-		<div class="well">Meta-Enlance</div>
+		<div class="well"><span class="glyphicon glyphicon-folder-open tutorial"></span> Meta-Enlance</div>
 		<div class="container">
   			<div class="panel-group" id="collapsible_Enlace">
   				<div class="panel">

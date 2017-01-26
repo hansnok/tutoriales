@@ -30,7 +30,7 @@
 			<div class="col-md-4 text-center">
 				<a href="#Importar">
 					<h3>Importar elementos de otro curso</h3>
-					<br><span class="glyphicon glyphicon-share"></span>
+					<br><span class="glyphicon glyphicon-share icono"></span>
 				</a> <br>
 				<br>
 				<p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n sobre como importar elementos de un curso a otro, este curso pudo haber sido uno ya realizado anteriormente</p>
@@ -41,7 +41,7 @@
 					
 					<h3>Agregar una actividad o recurso</h3>
 					</p> <br>
-				<span class="glyphicon glyphicon-font"></span>
+				<span class="glyphicon glyphicon-font icono"></span>
 				</a><br>
 				<br>
 				<p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n sobre como agregar una actividad a su curso.</p>
@@ -51,7 +51,7 @@
 					<p>
 					<h3>Subir un archivo</h3>
 					</p> <br>
-				<span class="glyphicon glyphicon-upload"></span>
+				<span class="glyphicon glyphicon-upload icono"></span>
 				</a><br>
 				<br>
 				<p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n sobre como subir un archivo.</p>
@@ -63,7 +63,7 @@
 					<p>
 					
 					<h3>Crear una encuesta</h3>
-					</p> <span class="glyphicon glyphicon-list-alt"></span>
+					</p> <span class="glyphicon glyphicon-list-alt icono"></span>
 				</a> <br>
 				<br>
 				<p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n sobre como crear una encuesta.</p>
@@ -73,7 +73,7 @@
 					<p>
 					
 					<h3>Configurar un cuestionario</h3>
-					</p> <span class="glyphicon glyphicon-align-justify"></span>
+					</p> <span class="glyphicon glyphicon-align-justify icono"></span>
 				</a><br>
 				<br>
 				<p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n sobre como crear y configurar un cuestionario.</p>
@@ -83,7 +83,7 @@
 					<p>
 					
 					<h3>Importar/Exportar Calificaciones</h3>
-					</p> <span class="glyphicon glyphicon-paste"></span>
+					</p> <span class="glyphicon glyphicon-paste icono"></span>
 				</a><br>
 				<br>
 				<p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n sobre como importar o exportar calificaciones.</p>

@@ -1,5 +1,5 @@
 <div id="Digitalizacion" class="row">
-		<div class="well">Protocolos Digitalizaci&oacute;n</div>
+		<div class="well"><span class="glyphicon glyphicon-qrcode tutorial"></span> Protocolos Digitalizaci&oacute;n</div>
 		<div class="container">
   			<div class="panel-group" id="collapsible_Protocolos">
     			<div class="panel">

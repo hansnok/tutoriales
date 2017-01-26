@@ -1,6 +1,6 @@
 	<hr id="Crear" class="featurette-divider"/><br>
 	<div class="row">
-		<div class="well">Crear un curso</div>
+		<div class="well"><span class="glyphicon glyphicon-plus tutorial"></span> Crear un curso</div>
 		<div class="container">
   			<div class="panel-group" id="collapsible_Creacion">
     			<div class="panel">

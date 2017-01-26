@@ -26,19 +26,19 @@
     	<div class="col-md-4 text-center">
     		<a href="#Matricular">
     		<p><h3>Matricular usuarios en un curso</h3></p>
-     	 	<br><span class="glyphicon glyphicon-user"></span>
+     	 	<br><span class="glyphicon glyphicon-user icono"></span>
     		</a>      <br><br><p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n sobre como matricular usuarios dentro de un curso.</p>
     	</div>
     	<div class="col-md-4 text-center">
     		<a href="#Roles">
     		<p><h3>Asignar roles a los usuarios</h3></p>
-      		<br><span class="glyphicon glyphicon-tags"></span>
+      		<br><span class="glyphicon glyphicon-tags icono"></span>
     		</a><br><br><p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n sobre como asignar un rol a los distintos usuarios.</p>
    		</div>
     	<div class="col-md-4 text-center">
     		<a href="#Desmatricular">
     		<p><h3>Desmatricular a un usuario</h3></p>
-      		<br><span class="glyphicon glyphicon-remove"></span>
+      		<br><span class="glyphicon glyphicon-remove icono"></span>
     		</a><br><br><p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n sobre como desmatricular a un usuario de su curso.</p>
     	</div>
 	</div>

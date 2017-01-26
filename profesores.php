@@ -14,36 +14,36 @@
 			<div class="row">
 				<div class="col-sm-6">
 					<div class="feature-item">
-						<h4><span class="glyphicon glyphicon-play"></span><a href="emarking.php"> E-Marking</h4></a>
-						<p>Esta es una herramienta que permite enviar a imprimir pruebas, digitalizarlas y corregir en linea.</p>
+						<h4><span class="glyphicon glyphicon-play"></span><a class="tutorial_titulo" href="emarking.php"> E-Marking</h4></a>
+						<p class="tutorial_description">Esta es una herramienta que permite enviar a imprimir pruebas, digitalizarlas y corregir en linea.</p>
 					</div>
 				</div>
 				<div class="col-sm-6">
 					<div class="feature-item">
-						<h4><span class="glyphicon glyphicon-play"></span><a href="turnitin.php"> Turnitin</a></h4>
-						<p>Detecta las copias y plagios de tus alumnos con trabajos anteriores de forma r&aacute;pida y sencilla.</p>
+						<h4><span class="glyphicon glyphicon-play"></span><a class="tutorial_titulo" href="turnitin.php"> Turnitin</a></h4>
+						<p class="tutorial_description">Detecta las copias y plagios de tus alumnos con trabajos anteriores de forma r&aacute;pida y sencilla.</p>
 					</div>
 				</div>  
 			</div>
 			<div class="row">
 				<div class="col-sm-6">
 					<div class="feature-item">
-						<h4><span class="glyphicon glyphicon-play"></span><a href="profesores_matriculacion.php"> Matriculaciones y Roles de usuarios</a></h4>
-						<p>Aprende todas las acciones relacionadas con matricular usuarios y asignarles roles tal como se har&iacute;a con un ayudante.</p>
+						<h4><span class="glyphicon glyphicon-play"></span><a class="tutorial_titulo" href="profesores_matriculacion.php"> Matriculaciones y Roles de usuarios</a></h4>
+						<p class="tutorial_description">Aprende todas las acciones relacionadas con matricular usuarios y asignarles roles tal como se har&iacute;a con un ayudante.</p>
 					</div>
 				</div>
 				<div class="col-sm-6">
 					<div class="feature-item">
-						<h4><span class="glyphicon glyphicon-play"></span><a href="profesores_acciones_cursos.php"> Acciones dentro de un curso</a></h4>
-						<p>Subir un archivo, crear encuestas y actividades e importar informacion de cursos anteriores.</p>
+						<h4><span class="glyphicon glyphicon-play"></span><a class="tutorial_titulo" href="profesores_acciones_cursos.php"> Acciones dentro de un curso</a></h4>
+						<p class="tutorial_description">Subir un archivo, crear encuestas y actividades e importar informacion de cursos anteriores.</p>
 					</div>
 				</div>  
 			</div>
 			<div class="row">
 				<div class="col-md-6">
 					<div class="feature-item">
-						<h4><span class="glyphicon glyphicon-play"></span><a href="profesores_informaciones_varias.php"> Informaciones varias</a></h4>
-						<p>Informaci&oacute;n y descripci&oacute;n b&aacute;sica de algunas funciones de webcursos</p>
+						<h4><span class="glyphicon glyphicon-play"></span><a class="tutorial_titulo" href="profesores_informaciones_varias.php"> Informaciones varias</a></h4>
+						<p class="tutorial_description">Informaci&oacute;n y descripci&oacute;n b&aacute;sica de algunas funciones de webcursos</p>
 					</div>
 				</div>
 			</div>

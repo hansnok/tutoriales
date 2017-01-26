@@ -1,5 +1,5 @@
 		<div id="Archivo" class="row">
-			<div class="well">Subir un archivo</div>
+			<div class="well"><span class="glyphicon glyphicon-upload tutorial"></span> Subir un archivo</div>
 			<div class="container">
 				<div class="panel-group" id="collapsible_Archivo">
 					<div class="panel">

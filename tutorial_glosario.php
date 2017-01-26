@@ -1,6 +1,6 @@
 			<div id="Glosario" class="row">
 				<div class="well">
-					Para que sirve el Glosario
+					<span class="glyphicon glyphicon-book tutorial"></span> Para que sirve el Glosario
 				</div>
 				<div class="container">
 					<div class="row">

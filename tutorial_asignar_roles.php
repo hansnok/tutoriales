@@ -1,5 +1,5 @@
 		<div id="Roles" class="row">
-			<div class="well">Asignar roles a los usuarios</div>
+			<div class="well"><span class="glyphicon glyphicon-tags tutorial"></span> Asignar roles a los usuarios</div>
 			<div class="container">
   				<div class="panel-group" id="collapsible_Roles">
     				<div class="panel">

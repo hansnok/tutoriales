@@ -26,13 +26,13 @@
     	<div class="col-md-6 text-center">
     		<a href="#Crear">
     		<p><h3>Crear actividad turnitin</h3></p>
-     	 	<span class="glyphicon glyphicon-pencil text-center"><br></span>
+     	 	<span class="glyphicon glyphicon-pencil icono text-center"><br></span>
     		</a><br><br>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n de c&oacute;mo crear una actividad de turnitin.
     	</div>
     	<div class="col-md-6 text-center">
     		<a href="#Entregas">
     		<p><h3>Revisi&oacute;n Entregas</h3></p>
-      		<span class="glyphicon glyphicon-ok text-center"></span>
+      		<span class="glyphicon glyphicon-ok icono text-center"></span>
     		</a><br><br>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n de como revisar el contenido entregado por los alumnos.
    		</div>
 	</div>

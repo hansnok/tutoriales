@@ -1,5 +1,5 @@
 	<div id="Rubricas" class="row">
-		<div class="well">Rubricas</div>
+		<div class="well"><span class="glyphicon glyphicon-file tutorial"></span> Rubricas</div>
 		<div class="container">
   			<div class="panel-group" id="collapsible_Rubricas">
   				    			<div class="panel">

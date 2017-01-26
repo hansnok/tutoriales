@@ -1,6 +1,6 @@
 			<div id="Libro" class="row">
 				<div class="well">
-					Libro Calificador
+					<span class="glyphicon glyphicon-pencil tutorial"></span>Libro Calificador
 				</div>
 				<div class="container">
 					<div class="panel-group" id="collapsible_Libro">

@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="estilo.css">
 <div id="foot">
 	<div class="container">
 	<div class="footer">SANTIAGO : DIAGONAL LAS TORRES 2640 PE&Ntilde;ALOL&Eacute;N / PRESIDENTE ERR&Aacute;ZURIZ 3485 LAS CONDES. - (56 2) 2331 1000<br>

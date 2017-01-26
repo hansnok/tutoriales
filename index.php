@@ -12,37 +12,12 @@
 			&aacute;reas y roles que se tienen en webcursos junto con videos
 			explicativos.</p>
 	</div>
-	<!-- Intro Webcursos -->
-	<div class="bg-1">
-		<div class="container text-center" style="margin-bottom: 20px">
-			<div class="row">
-				<div class="col-md-8 text-center">
-					<iframe width="550" height="400"
-						src="https://www.youtube.com/embed/s6RtRBbkm7I" frameborder="0"
-						allowfullscreen></iframe>
-					</a>
-				</div>
-				<div class="col-md-4 text-justify">
-					<h4>Webcursos es una plataforma de comunicaci&oacute;n entre
-						alumnos y profesores la cual permite que expresen sus inquietudes
-						de tal forma de mejorar la relacion entre ambas comunidades.</h4>
-					<hr class="featurette-divider" />
-					<div class="row">
-						<div class="col-md-12 text-center">
-							<img src="images/logo_web_c.png" class="img-responsive margin"
-								style="display: inline" width="200" height="200" alt="Image">
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
 	<!-- Roles -->
 	<div class="bg-2">
-		<div class="container text-center">
+		<div class="container text-center" style="margin-bottom: 20px">
 			<h3 class="rol"><b>ROLES</b></h3>
-				<h3>Aqu&iacute; podr&aacute; encontrar los distintos roles para los
-				cuales ofrecemos tutoriales<br></h3>
+				<h4>Aqu&iacute; podr&aacute; encontrar los distintos roles para los
+				cuales ofrecemos tutoriales<br></h4>
 				<br>
 			<div class="container">
 				<div class="row">
@@ -87,13 +62,40 @@
 			</div>
 		</div>
 	</div>
+		<!-- Intro Webcursos -->
+	<div class="bg-1">
+		<div class="container text-center" style="margin-bottom: 20px">
+			<div class="row">
+			<h3 class="rol"><b>Testimonios</b></h3>
+				<div class="col-md-8 text-center">
+					<br><br><br><iframe width="550" height="400"
+						src="https://www.youtube.com/embed/s6RtRBbkm7I" frameborder="0"
+						allowfullscreen></iframe>
+					</a>
+				</div>
+				<div class="col-md-4 text-center">
+					<div class="embed-responsive embed-responsive-4by3">
+    					<br><br><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Le-nbrZoK_s"></iframe>
+					</div>
+					<br><br>
+					<div class="row">
+						<div class="col-md-12 text-center">
+							<div class="embed-responsive embed-responsive-4by3">
+    <br><br><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/OuGikc6eU5g"></iframe>
+</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 	<!-- Ultimos tutoriales agregados -->
 	<div class="bg-3">
 	<div class="container text-center">
-		<h3 class="margin">&Uacute;ltimos tutoriales multimedia agregados</h3>
-		<p>Estos son los ultimos videos agregados al canal de Webcursos al cual puede acceder si hace click en el nombre. </p>
+		<h3 class="margin vids">&Uacute;ltimos tutoriales multimedia agregados</h3>
+		<h4>Estos son los ultimos videos agregados al <a href="https://www.youtube.com/channel/UCgP-Uk-fjyjoFwmfNEATZcA"> canal de Webcursos</a> al cual puede acceder si hace click en el nombre. </h4>
+	<div id="results" class="text-center">
 	</div>
-	<div id="results" class="container text-center">
 	</div>
 	</div>
 	<!-- Footer -->

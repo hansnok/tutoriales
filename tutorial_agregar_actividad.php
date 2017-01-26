@@ -1,5 +1,5 @@
 		<div id="Agregar" class="row">
-			<div class="well">Agregar actividad o recursos</div>
+			<div class="well"><span class="glyphicon glyphicon-font tutorial"></span> Agregar actividad o recursos</div>
 			<div class="container">
   				<div class="panel-group" id="collapsible_Agregar">
   					<div class="panel">

@@ -2,7 +2,7 @@
 		<br>
 		<div class="row">
 			<div class="well">
-				Convertir archivo de Word a PDF
+				<span class="glyphicon glyphicon-file tutorial"></span> Convertir archivo de Word a PDF
 			</div>
 			<div class="container">
 				<div class="panel-group" id="collapsible_PDF">

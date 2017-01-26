@@ -1,5 +1,5 @@
 		<div id="Encuesta" class="row">
-			<div class="well">Crear una encuesta</div>
+			<div class="well"><span class="glyphicon glyphicon-list-alt tutorial"></span> Crear una encuesta</div>
 			<div class="container">
 				<div class="panel-group" id="collapsible_Encuesta">
 					<div class="panel">

@@ -1,5 +1,5 @@
 	<div id="Entregas" class="row">
-		<div class="well">Revisi&oacute;n entregas</div>
+		<div class="well"><span class="glyphicon glyphicon-ok tutorial"></span>Revisi&oacute;n entregas</div>
 		<div class="container">
   			<div class="panel-group" id="collapsible_Entregas">
     			<div class="panel">

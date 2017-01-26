@@ -28,27 +28,27 @@
 					<p>
 					
 					<h3>Convertir archivo Word a PDF</h3>
-					</p> <span class="glyphicon glyphicon-file"></span>
+					</p> <span class="glyphicon glyphicon-file icono"></span>
 				</a> <br> <br>
 				<p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n sobre como convertir un archivo word en PDF</p>
 			</div>
 			<div class="col-md-3 text-center">
 				<a href="#Foro">					
 					<h3>Como funciona el foro</h3><br>
-					<span class="glyphicon glyphicon-comment"></span>
+					<span class="glyphicon glyphicon-comment icono"></span>
 				</a><br> <br>
 				<p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n sobre como funciona el foro</p>
 			</div>
 			<div class="col-md-3 text-center">
 				<a href="#Glosario">
 					<h3>Para que sirve el glosario</h3> <span
-					class="glyphicon glyphicon-book"></span>
+					class="glyphicon glyphicon-book icono"></span>
 				</a><br> <br>
 				<p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n sobre el glosario.</p>
 			</div>
 			<div class="col-md-3 text-center">
 				<a href="#Libro">
-					<h3>Libro Calificador</h3><br> <span class="glyphicon glyphicon-pencil"></span>
+					<h3>Libro Calificador</h3><br> <span class="glyphicon glyphicon-pencil icono"></span>
 				</a><br> <br>
 				<p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n sobre el libro calificador y sus usos.</p>
 			</div>

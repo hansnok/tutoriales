@@ -1,5 +1,5 @@
 		<div id="Notas" class="row">
-			<div class="well">Importar/Exportar Calificaciones</div>
+			<div class="well"><span class="glyphicon glyphicon-paste tutorial"></span> Importar/Exportar Calificaciones</div>
 			<div class="container">
 				<div class="panel-group" id="collapsible_Notas">
 					<div class="panel">

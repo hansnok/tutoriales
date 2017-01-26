@@ -26,25 +26,25 @@
     	<div class="col-md-3 text-center">
     		<a href="#Crear">
     		<p><h3>Crear un curso</h3></p><br>
-     	 	<span class="glyphicon glyphicon-plus"></span>
+     	 	<span class="glyphicon glyphicon-plus icono"></span>
     		</a>      <br><br><p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n de como crear un nuevo curso.</p>
     	</div>
     	<div class="col-md-3 text-center">
     		<a href="#Grupos">
     		<p><h3>Crear Grupos en un curso </h3></p>
-      		<span class="glyphicon glyphicon-user"></span>
+      		<span class="glyphicon glyphicon-user icono"></span>
     		</a><br><br><p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n de como crear grupos dentro de un curso.</p>
    		</div>
     	<div class="col-md-3 text-center">
     		<a href="#Metacurso">
     		<p><h3>Metacurso</h3></p><br>
-      		<span class="glyphicon glyphicon-pencil"></span>
+      		<span class="glyphicon glyphicon-pencil icono"></span>
     		</a><br><br><p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n de como crear un Meta-curso.</p>
     	</div>
     	<div class="col-md-3 text-center">
     		<a href="#Enlace">
     		<h3><p>Metaenlace</p></h3><br>
-      		<span class="glyphicon glyphicon-folder-open"></span>
+      		<span class="glyphicon glyphicon-folder-open icono"></span>
     		</a><br><br><p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n de como crear un Meta-enlace.</p>
     	</div>
 	</div>

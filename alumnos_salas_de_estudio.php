@@ -9,7 +9,7 @@
 <div class="container">
 			<div class="row">
 				<div class="col-md-6 text-center">
-    					<iframe allowfullscreen width="470" height="300" src="https://www.youtube.com/embed/vAKB-FvNVbM"></iframe>
+    					<iframe frameborder="0" allowfullscreen width="470" height="300" src="https://www.youtube.com/embed/vAKB-FvNVbM"></iframe>
 				</div>
 				<div class="col-md-6 text-justify">
 					<h4>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n sobre como reservar una sala de estudio , confirmar reserva y cancelar reserva.</h4>
@@ -26,26 +26,26 @@
     	<div class="col-md-4 text-center">
     		<a href="#Reserva">
     		<p><h3>Reservar Sala</h3></p>
-     	 	<span class="glyphicon glyphicon-pencil text-center"><br></span>
+     	 	<span class="glyphicon glyphicon-pencil text-center icono"></span>
     		</a><br><br>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n sobre como reservar una sala de estudio.
     	</div>
     	<div class="col-md-4 text-center">
     		<a href="#Cancelar">
     		<p><h3>Confirmar Reserva</h3></p>
-      		<span class="glyphicon glyphicon-ok text-center"></span>
+      		<span class="glyphicon glyphicon-ok text-center icono"></span>
     		</a><br><br>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n sobre como confirmar una sala de estudio.
    		</div>
     	<div class="col-md-4 text-center">
     		<a href="#Cancelar">
     		<p><h3>Cancelar Reserva</h3></p>
-      		<span class="glyphicon glyphicon-remove"></span>
+      		<span class="glyphicon glyphicon-remove icono"></span>
     		</a><br><br>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n sobre como cancelar la reserva de una sala de estudio.
     	</div>
 	</div>
 	<!-- Reserva -->
 	<hr id="Reserva" class="featurette-divider"/><br>
 	<div class="row">
-		<div class="well">Reservar Sala de Estudio</div>
+		<div class="well"><span class="glyphicon glyphicon-pencil text-center tutorial"></span> Reservar Sala de Estudio</div>
 		<div class="container">
   			<div class="panel-group" id="collapsible_Reservar">
     			<div class="panel">
@@ -110,7 +110,7 @@
 	</div>
  <!-- Confirmar Reserva -->
 	<div id="Cancelar" class="row">
-		<div class="well">Confirmar Reserva</div>
+		<div class="well"><span class="glyphicon glyphicon-ok text-center tutorial"></span> Confirmar Reserva</div>
 		<div class="container">
   			<div class="panel-group" id="collapsible_Confirmar">
     			<div class="panel">
@@ -156,7 +156,7 @@
 	</div>
 	<!-- Cancelar Reserva -->
 	<div id="Cancelar" class="row">
-		<div class="well">Cancelar Reserva</div>
+		<div class="well"><span class="glyphicon glyphicon-remove tutorial"></span> Cancelar Reserva</div>
 		<div class="container">
   			<div class="panel-group" id="collapsible_Cancelar">
     			<div class="panel">

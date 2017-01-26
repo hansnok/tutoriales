@@ -1,5 +1,5 @@
 		<div id="Importar" class="row">
-			<div class="well">Importar elementos de un curso a otro</div>
+			<div class="well"><span class="glyphicon glyphicon-share tutorial"></span> Importar elementos de un curso a otro</div>
 			<div class="container">
   				<div class="panel-group" id="collapsible_Importar">
     				<div class="panel">

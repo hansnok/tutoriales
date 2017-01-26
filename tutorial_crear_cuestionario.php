@@ -1,5 +1,5 @@
 		<div id="Cuestionario" class="row">
-			<div class="well">Configurar un cuestionario</div>
+			<div class="well"><span class="glyphicon glyphicon-align-justify tutorial"></span> Configurar un cuestionario</div>
 			<div class="container">
 				<div class="panel-group" id="collapsible_Cuestionario">
 					<div class="panel">

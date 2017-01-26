@@ -1,5 +1,5 @@
 	<div id="Metacurso" class="row">
-		<div class="well">Metacurso</div>
+		<div class="well"><span class="glyphicon glyphicon-pencil tutorial"></span> Metacurso</div>
 		<div class="container">
   			<div class="panel-group" id="collapsible_Metacurso">
     			<div class="panel">

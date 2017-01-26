@@ -1,5 +1,5 @@
 	<div id="Grupos" class="row">
-		<div class="well">Creacion de Grupos dentro de un curso</div>
+		<div class="well"><span class="glyphicon glyphicon-user tutorial"></span> Creacion de Grupos dentro de un curso</div>
 		<div class="container">
   			<div class="panel-group" id="collapsible_Grupos">
     			<div class="panel">

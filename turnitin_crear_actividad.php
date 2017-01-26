@@ -1,6 +1,6 @@
 	<hr id="Crear" class="featurette-divider"/><br>
 	<div class="row">
-		<div class="well">Crear actividad turnitin</div>
+		<div class="well"><span class="glyphicon glyphicon-pencil tutorial"><br></span> Crear actividad turnitin</div>
 		<div class="container">
   			<div class="panel-group" id="collapsible_Crear">
     			<div class="panel">

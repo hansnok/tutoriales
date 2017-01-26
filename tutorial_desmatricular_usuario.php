@@ -1,5 +1,5 @@
 <div id="Desmatricular" class="row">
-		<div class="well">Desmatricular un usuario</div>
+		<div class="well"><span class="glyphicon glyphicon-remove tutorial"></span>Desmatricular un usuario</div>
 		<div class="container">
   			<div class="panel-group" id="collapsible_Desmatricular">
     			<div class="panel">

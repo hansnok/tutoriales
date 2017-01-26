@@ -9,7 +9,7 @@
 <div class="container">
 			<div class="row">
 				<div class="col-md-6 text-center">
-    					<iframe allowfullscreen width="470" height="300" src="https://www.youtube.com/embed/QvGZ98GbRMw"></iframe>
+    					<iframe frameborder="0" allowfullscreen width="470" height="300" src="https://www.youtube.com/embed/QvGZ98GbRMw"></iframe>
 				</div>
 				<div class="col-md-6 text-justify">
 					<p><h4>Texto descriptivo de emarking, sus utilidades y todas las funciones que puede cumplir, esto seria un breve resumen de lo que se puede hacer y en que ayuda utilizarlo.</h4></p>
@@ -26,20 +26,20 @@
     	<div class="col-md-6 text-center">
     		<a href="#Matricularse">
     		<p><h3>Matricularse</h3></p>
-     	 	<span class="glyphicon glyphicon-ok text-center"><br></span>
+     	 	<span class="glyphicon glyphicon-ok text-center icono"></span>
     		</a><br><br>Aqui podra ver como matricularse dentro de un curso
     	</div>
     	<div class="col-md-6 text-center">
     		<a href="#Desmatricularse">
     		<p><h3>Desmatricularse</h3></p>
-      		<span class="glyphicon glyphicon-remove text-center"></span>
+      		<span class="glyphicon glyphicon-remove text-center icono"></span>
     		</a><br><br>Aqui podra ver como desinscribirse de un curso.
    		</div>
 	</div>
 	<!-- Matricularse -->
 	<hr id="Matricularse" class="featurette-divider"/><br>
 	<div class="row">
-		<div class="well">Matricularse en un curso</div>
+		<div class="well"><span class="glyphicon glyphicon-ok text-center tutorial"></span> Matricularse en un curso</div>
 		<div class="container">
   			<div class="panel-group" id="collapsible_Matricular">
     			<div class="panel">
@@ -92,7 +92,7 @@
 	</div>
  <!-- Desmatricularse -->
 	<div id="Desmatricularse" class="row">
-		<div class="well">Desmatricularse de un curso</div>
+		<div class="well"><span class="glyphicon glyphicon-remove text-center tutorial"></span> Desmatricularse de un curso</div>
 		<div class="container">
   			<div class="panel-group" id="collapsible_Desmatricularse">
     			<div class="panel">

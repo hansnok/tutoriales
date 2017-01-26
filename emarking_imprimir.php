@@ -1,6 +1,6 @@
 	<hr id="Impresion" class="featurette-divider"/><br>
 	<div class="row">
-		<div class="well">Enviar a Impresi&oacute;n</div>
+		<div class="well"><span class="glyphicon glyphicon-print tutorial"></span>  Enviar a Impresi&oacute;n</div>
 		<div class="container">
   			<div class="panel-group" id="collapsible_Impresion">
     			<div class="panel">

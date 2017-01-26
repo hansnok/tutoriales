@@ -11,7 +11,7 @@
 		<div class="col-md-12">
 			<div class="row">
 				<div class="col-md-6 text-center">
-						<br><iframe width="470" height="300" src="https://www.youtube.com/embed/_LfywvezuVQ" frameborder="0"></iframe><br>
+						<br><iframe allowfullscreen width="470" height="300" src="https://www.youtube.com/embed/_LfywvezuVQ" frameborder="0"></iframe><br>
 				</div>
 				<div class="col-md-6 text-justify">
 					<p><h4>E-marking permite enviar a imprimir pruebas o controles de manera segura personalizada y organizada.<br><br>
@@ -32,28 +32,28 @@
     	<div class="col-md-3 text-center">
     		<a href="#Impresion">
     		<p><h3>Enviar a impresi&oacute;n</h3></p><br>
-     	 	<span class="glyphicon glyphicon-print"></span></a>
+     	 	<span class="glyphicon glyphicon-print icono"></span></a>
      	 	<br><br>
     		<p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n de como mandar a imprimir una prueba que utilice el sistema de Emarking.</p>
     	</div>
     	<div class="col-md-3 text-center">
     		<a href="#Digitalizacion">
     		<p><h3>Protocolos Digitalizaci&oacute;n</h3></p><br>
-      		<span class="glyphicon glyphicon-qrcode"></span></a>
+      		<span class="glyphicon glyphicon-qrcode icono"></span></a>
       		<br><br>
     		<p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n de los pasos a seguir para digitalizar las pruebas.</p>
    		</div>
     	<div class="col-md-3 text-center">
     		<a href="#Correccion">
     		<p><h3>Correcci&oacute;n en l&iacute;nea</h3></p><br>
-      		<span class="glyphicon glyphicon-pencil"></span></a>
+      		<span class="glyphicon glyphicon-pencil icono"></span></a>
 			<br><br>
     		<p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n de como corregir en l&iacute;nea y sus beneficios.</p>
     	</div>
     	<div class="col-md-3 text-center">
     		<a href="#Rubricas">
     		<h3><p>Rubricas</p></h3><br>
-      		<span class="glyphicon glyphicon-file"></span></a>
+      		<span class="glyphicon glyphicon-file icono"></span></a>
       		<br><br>
     		<p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n sobre como crear una rubrica, importarla y compartirla</p>
     	</div>
