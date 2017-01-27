@@ -3,9 +3,11 @@
 <link rel="stylesheet" href="portada.css">
 <link rel="stylesheet" href="estilo.css">
 <script src="bootstrap/js/youtube.js"></script>
+<script src="bootstrap/js/bootstro.min.js"></script>
+<link rel="stylesheet" href="bootstro.min.css">
 <body>
 	<div class="jumbotron text-center">
-		<h1>
+		<h1 class="bootstro">
 			Bienvenido a <b>WebC</b> Tutoriales
 		</h1>
 		<p>Aqu&iacute; podr&aacute; encontrar tutoriales para las diferentes
@@ -67,22 +69,24 @@
 		<div class="container text-center" style="margin-bottom: 20px">
 			<div class="row">
 			<h3 class="rol"><b>Testimonios</b></h3>
-				<div class="col-md-8 text-center">
-					<br><br><br><iframe width="550" height="400"
-						src="https://www.youtube.com/embed/s6RtRBbkm7I" frameborder="0"
-						allowfullscreen></iframe>
-					</a>
-				</div>
-				<div class="col-md-4 text-center">
-					<div class="embed-responsive embed-responsive-4by3">
-    					<br><br><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Le-nbrZoK_s"></iframe>
+				<h4>Vea los distintos testimonios de profesores sobre webcursos</h4>
+				<div class="row">
+					<div class="col-md-4">
+						<iframe width="330" height="250" src="https://www.youtube.com/embed/s6RtRBbkm7I" frameborder="0" allowfullscreen></iframe>
+						<div class="row">
+							<p>Testimonio 1: Que es Webcursos</p>
+						</div>
 					</div>
-					<br><br>
-					<div class="row">
-						<div class="col-md-12 text-center">
-							<div class="embed-responsive embed-responsive-4by3">
-    <br><br><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/OuGikc6eU5g"></iframe>
-</div>
+					<div class="col-md-4">
+						<iframe width="330" height="250" src="https://www.youtube.com/embed/Le-nbrZoK_s" frameborder="0" allowfullscreen></iframe>
+						<div class="row">
+							<p>Testimonio 2: Que permite Webcursos</p>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<iframe width="330" height="250" src="https://www.youtube.com/embed/OuGikc6eU5g" frameborder="0" allowfullscreen></iframe>
+						<div class="row">
+							<p>Testimonio 3: Utilidad de Webcursos</p>
 						</div>
 					</div>
 				</div>
@@ -101,3 +105,8 @@
 	<!-- Footer -->
 <?php include("footer.php")?>
 </body>
+<script type="text/javascript">
+$(document).ready(function(){
+		bootstro.start(selector, options);
+});
+</script>
