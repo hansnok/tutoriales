@@ -1,57 +1,9 @@
 @CHARSET "ISO-8859-1";
-.glyphicon.glyphicon-print {
-    font-size: 125px;
-}
-.glyphicon.glyphicon-qrcode {
-    font-size: 125px;
-}
-.glyphicon.glyphicon-pencil {
-    font-size: 125px;
-}
-.glyphicon.glyphicon-file {
-    font-size: 125px;
-}
-.glyphicon.glyphicon-ok{
+.icono{
 	font-size: 125px;
 }
-.glyphicon.glyphicon-remove{
-	font-size: 125px;
-}
-.glyphicon.glyphicon-plus{
-	font-size: 125px;
-}
-.glyphicon.glyphicon-user{
-	font-size: 125px;
-}
-.glyphicon.glyphicon-folder-open{
-	font-size: 125px;
-}
-.glyphicon.glyphicon-tags{
-	font-size: 125px;
-}
-.glyphicon.glyphicon-share{
-	font-size: 125px;
-}
-.glyphicon.glyphicon-font{
-	font-size: 125px;
-}
-.glyphicon.glyphicon-comment{
-	font-size: 125px;
-}
-.glyphicon.glyphicon-book{
-	font-size: 125px;
-}
-.glyphicon.glyphicon-upload{
-	font-size: 125px;
-}
-.glyphicon.glyphicon-list-alt{
-	font-size: 125px;
-}
-.glyphicon.glyphicon-align-justify{
-	font-size: 125px;
-}
-.glyphicon.glyphicon-paste{
-	font-size: 125px;
+.tutorial{
+	font-size:35px;
 }
 .affix {
 	bottom: 100px;
@@ -59,7 +11,7 @@
     position:fixed;
 }
 .glyphicon.glyphicon-circle-arrow-up {
-    font-size: 25px;
+    font-size: 35px;
 }
 
 

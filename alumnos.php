@@ -2,6 +2,7 @@
 <?php include("header.php")?>
 <link rel="stylesheet" href="estilo.css">
 <body>
+<div class="wrapper">
 <div class="jumbotron text-center">
   	<h1><span class="glyphicon glyphicon-pencil"></span> Alumnos </h1>
   	<p>Los Alumnos pueden reservar salas de estudio ademas de matricularse en diversos cursos.</p>
@@ -10,14 +11,14 @@
 	<div class="row">
 		<div class="col-sm-6">
 			<div class="feature-item">
-				<h4><span class="glyphicon glyphicon-play"></span> <a href="alumnos_salas_de_estudio.php"> Salas de estudio</a></h4>
-				<p>Aprenda a reservar una sala de estudio y confirmar o cancelar esta. </p>
+				<h4><span class="glyphicon glyphicon-play"></span> <a class="tutorial_titulo" href="alumnos_salas_de_estudio.php"> Salas de estudio</a></h4>
+				<p class="tutorial_description">Aprenda a reservar una sala de estudio y confirmar o cancelar esta. </p>
 			</div>
 		</div>
 		<div class="col-sm-6">
 			<div class="feature-item">
-				<h4><span class="glyphicon glyphicon-play"></span><a href="alumnos_matriculacion_cursos.php"> Matriculaci&oacute;n y Desmatriculaci&oacute;n de cursos</a></h4>
-				<p>Matriculaci&oacute;n y Desmatriculaci&oacute;n de otras asignaturas. </p>
+				<h4><span class="glyphicon glyphicon-play"></span><a class="tutorial_titulo" href="alumnos_matriculacion_cursos.php"> Matriculaci&oacute;n y Desmatriculaci&oacute;n de cursos</a></h4>
+				<p class="tutorial_description">Matriculaci&oacute;n y Desmatriculaci&oacute;n de otras asignaturas. </p>
 			</div>
 		</div>  
 	</div>
@@ -39,5 +40,6 @@
 	</div>
 </div>
 <br><br>
+</div>
 <?php include("footer.php")?>
 </body>

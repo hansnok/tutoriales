@@ -26,25 +26,25 @@
     	<div class="col-md-3 text-center">
     		<a href="#Matricular">
     		<p><h3>Matricular usuarios dentro de un curso</h3></p>
-     	 	<span class="glyphicon glyphicon-user"></span>
+     	 	<span class="glyphicon glyphicon-user icono"></span>
     		</a><br><br><p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n ver como matricular usuarios dentro de un curso</p>
     	</div>
     	<div class="col-md-3 text-center">
     		<a href="#Roles">
     		<p><h3>Asignar Roles a los usuarios</h3></p>
-      		<span class="glyphicon glyphicon-tags"></span>
+      		<span class="glyphicon glyphicon-tags icono"></span>
     		</a><br><br><p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n como asignar un rol a los distintos usuarios</p>
    		</div>
     	<div class="col-md-3 text-center">
     		<a href="#Importar">
     		<p><h3>Importar elementos de un curso</h3></p>
-      		<span class="glyphicon glyphicon-share"></span>
+      		<span class="glyphicon glyphicon-share icono"></span>
     		</a><br><br><p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n de como importar elementos de otros cursos.</p>
     	</div>
     	<div class="col-md-3 text-center">
     		<a href="#Agregar">
     		<h3><p>Agregar Actividad o Recurso</p></h3>
-      		<span class="glyphicon glyphicon-font"></span>
+      		<span class="glyphicon glyphicon-font icono"></span>
     		</a><br><br><p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n sobre como agregar una actividad a su curso.</p>
     	</div>
 	</div>

@@ -1,6 +1,6 @@
 	<hr id="Matricular" class="featurette-divider"/><br>
 	<div class="row">
-		<div class="well">Matricular Usuarios al curso</div>
+		<div class="well"><span class="glyphicon glyphicon-user tutorial"></span> Matricular Usuarios al curso</div>
 			 <div class="container">
   				<div class="panel-group" id="collapsible_Matricular">
     				<div class="panel">
@@ -13,7 +13,7 @@
         					<div class="panel-body">
         						<div class="row">
         							<div class="col-md-7">
-        								<img src="images/Matricular_usuarios_curso_1.png" class="img-responsive margin" style="display:inline" width="400" height="400" alt="Image"><br>
+        								<img src="images/Matricular_usuarios_curso_1.PNG" class="img-responsive margin" style="display:inline" width="400" height="400" alt="Image"><br>
         							</div>
         							<div class="col-md-5 text-justify">
 										<h5>Primero debe ingresar al curso al que se desea matricular al usuario<br><br>
@@ -34,7 +34,7 @@
       					<div id="Matricular2" class="panel-collapse collapse">
         					<div class="panel-body">
             					<div class="col-md-7">
-        							<img src="images/Matricular_usuarios_curso_2.png" class="img-responsive margin" style="display:inline" width="800" height="800" alt="Image"><br>
+        							<img src="images/Matricular_usuarios_curso_2.PNG" class="img-responsive margin" style="display:inline" width="800" height="800" alt="Image"><br>
         						</div>
         						<div class="col-md-5 text-justify">
        			 					<h5>Se abrir&aacute; una lista con los usuarios ya matriculados en el curso. Luego, se debe seleccionar "matricular usuarios". Se abrir&aacute; un pop up, en el cual se debe seleccionar el rol a asignar y finalmente se debe buscar el usuario a trav&eacute;s de su correo uai.</h5>
@@ -52,7 +52,7 @@
         					<div class="panel-body">
 								<div class="row">
 									<div class="col-md-7">
-										<img src="images/Matricular_usuarios_curso_3.png" class="img-responsive margin" style="display:inline" width="600" height="600" alt="Image"><br>
+										<img src="images/Matricular_usuarios_curso_3.PNG" class="img-responsive margin" style="display:inline" width="600" height="600" alt="Image"><br>
 									</div>
 									<div class="col-md-5 text-justify">
 										<h5>Finalmente, una vez encontrado el usuario, hacer click y matricular y para terminar click en "finalizar matriculaci&oacute;n de usuarios".</h5>

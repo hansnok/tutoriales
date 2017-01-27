@@ -1,6 +1,6 @@
 			<div id="Foro" class="row">
 				<div class="well">
-					Como funciona el foro
+					<span class="glyphicon glyphicon-comment tutorial"></span> Como funciona el foro
 				</div>
 				<div class="container">
 					<div class="panel-group" id="collapsible_Foro">
@@ -16,7 +16,7 @@
 								<div class="panel-body">
 									<div class="row">
 										<div class="col-md-7">
-											<img src="images/Foro_1.png" class="img-responsive margin"
+											<img src="images/Foro_1.PNG" class="img-responsive margin"
 												style="display: inline" width="250" height="250" alt="Image"><br>
 										</div>
 										<div class="col-md-5 text-justify">
@@ -41,7 +41,7 @@
 								<div class="panel-body">
 									<div class="row">
 										<div class="col-md-7">
-											<img src="images/Foro_2.png" class="img-responsive margin"
+											<img src="images/Foro_2.PNG" class="img-responsive margin"
 												style="display: inline" width="250" height="250" alt="Image"><br>
 										</div>
 										<div class="col-md-5 text-justify">
@@ -66,7 +66,7 @@
 								<div class="panel-body">
 									<div class="row">
 										<div class="col-md-7">
-											<img src="images/Foro_3.png" class="img-responsive margin"
+											<img src="images/Foro_3.PNG" class="img-responsive margin"
 												style="display: inline" width="800" height="800" alt="Image"><br>
 										</div>
 										<div class="col-md-5 text-justify">
@@ -98,7 +98,7 @@
 								<div class="panel-body">
 									<div class="row">
 										<div class="col-md-7">
-											<img src="images/Foro_4.png" class="img-responsive margin"
+											<img src="images/Foro_4.PNG" class="img-responsive margin"
 												style="display: inline" width="800" height="800" alt="Image"><br>
 										</div>
 										<div class="col-md-5 text-justify">
@@ -122,7 +122,7 @@
 								<div class="panel-body">
 									<div class="row">
 										<div class="col-md-7">
-											<img src="images/Foro_5.png" class="img-responsive margin"
+											<img src="images/Foro_5.PNG" class="img-responsive margin"
 												style="display: inline" width="150" height="150" alt="Image"><br>
 										</div>
 										<div class="col-md-5 text-justify">

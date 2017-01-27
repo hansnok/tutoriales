@@ -1,5 +1,5 @@
 		<div id="Archivo" class="row">
-			<div class="well">Subir un archivo</div>
+			<div class="well"><span class="glyphicon glyphicon-upload tutorial"></span> Subir un archivo</div>
 			<div class="container">
 				<div class="panel-group" id="collapsible_Archivo">
 					<div class="panel">
@@ -15,7 +15,7 @@
 							<div class="panel-body">
 								<div class="row">
 									<div class="col-md-7">
-										<img src="images/Agregar_actividad_1.png"
+										<img src="images/Agregar_actividad_1.PNG"
 											class="img-responsive margin" style="display: inline"
 											width="200" height="200" alt="Image"><br>
 									</div>
@@ -42,7 +42,7 @@
 							<div class="panel-body">
 								<div class="row">
 									<div class="col-md-7">
-										<img src="images/Agregar_actividad.png"
+										<img src="images/Agregar_actividad.PNG"
 											class="img-responsive margin" style="display: inline"
 											width="800" height="800" alt="Image"><br>
 									</div>
@@ -68,7 +68,7 @@
 							<div class="panel-body">
 								<div class="row">
 									<div class="col-md-7">
-										<img src="images/Agregar_archivo_1.png"
+										<img src="images/Agregar_archivo_1.PNG"
 											class="img-responsive margin" style="display: inline"
 											width="800" height="800" alt="Image"><br>
 									</div>
@@ -93,7 +93,7 @@
 							<div class="panel-body">
 								<div class="row">
 									<div class="col-md-7">
-										<img src="images/Agregar_archivo_2.png"
+										<img src="images/Agregar_archivo_2.PNG"
 											class="img-responsive margin" style="display: inline"
 											width="800" height="800" alt="Image"><br>
 									</div>
@@ -120,7 +120,7 @@
 							<div class="panel-body">
 								<div class="row">
 									<div class="col-md-7">
-										<img src="images/Agregar_archivo_3.png"
+										<img src="images/Agregar_archivo_3.PNG"
 											class="img-responsive margin" style="display: inline"
 											width="300" height="300" alt="Image"><br>
 									</div>

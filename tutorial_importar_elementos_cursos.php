@@ -1,5 +1,5 @@
 		<div id="Importar" class="row">
-			<div class="well">Importar elementos de un curso a otro</div>
+			<div class="well"><span class="glyphicon glyphicon-share tutorial"></span> Importar elementos de un curso a otro</div>
 			<div class="container">
   				<div class="panel-group" id="collapsible_Importar">
     				<div class="panel">
@@ -12,7 +12,7 @@
         					<div class="panel-body">
         						<div class="row">
         							<div class="col-md-7">
-										<img src="images/Importar_curso_1.png" class="img-responsive margin" style="display:inline" width="400" height="400" alt="Image"><br>
+										<img src="images/Importar_curso_1.PNG" class="img-responsive margin" style="display:inline" width="400" height="400" alt="Image"><br>
 									</div>
 									<div class="col-md-5 text-justify">
 										<h5>Ingresar al curso al cual se desea importarle elementos<br><br><ul>
@@ -33,7 +33,7 @@
         					<div class="panel-body">
             					<div class="row">
 									<div class="col-md-7">
-										<img src="images/Importar_curso_2.png" class="img-responsive margin" style="display:inline" width="800" height="800" alt="Image"><br>
+										<img src="images/Importar_curso_2.PNG" class="img-responsive margin" style="display:inline" width="800" height="800" alt="Image"><br>
 									</div>
 									<div class="col-md-5 text-justify">
 										<h5>Seleccionar el curso del cual extraer los elementos</h5>
@@ -52,7 +52,7 @@
         					<div class="panel-body">
             					<div class="row">
 									<div class="col-md-7">
-										<img src="images/Metacurso_3.1.png" class="img-responsive margin" style="display:inline" width="350" height="350" alt="Image"><br>
+										<img src="images/Importar_curso_3.PNG" class="img-responsive margin" style="display:inline" width="350" height="350" alt="Image"><br>
 									</div>
 									<div class="col-md-5 text-justify">
 										<h5>Seleccionar los elementos a importar (deseleccionar aquellos que no necesitamos):<br><br>

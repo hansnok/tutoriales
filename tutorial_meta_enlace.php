@@ -1,5 +1,5 @@
 <div id="Enlace" class="row">
-		<div class="well">Meta-Enlance</div>
+		<div class="well"><span class="glyphicon glyphicon-folder-open tutorial"></span> Meta-Enlance</div>
 		<div class="container">
   			<div class="panel-group" id="collapsible_Enlace">
   				<div class="panel">
@@ -17,7 +17,7 @@
         					<hr class="featurette-divider"/>
         					<div class="row">
 								<div class="col-md-7">
-									<img src="images/Metaenlace_1.png" class="img-responsive margin" style="display:inline" width="600" height="600" alt="Image"><br>
+									<img src="images/Metaenlace_1.PNG" class="img-responsive margin" style="display:inline" width="600" height="600" alt="Image"><br>
 								</div>
 								<div class="col-md-5 text-justify">
 									<h5>Teniendo el rol del profesor, se debe ingresar al metacurso en el cual se har&aacute; el meta-enlace y realizar los siguientes pasos:</h5>
@@ -56,7 +56,7 @@
         				<div class="panel-body">
         					<div class="row">
 								<div class="col-md-7">
-									<img src="images/Metaenlace_2.png" class="img-responsive margin" style="display:inline" width="600" height="600" alt="Image"><br>
+									<img src="images/Metaenlace_2.PNG" class="img-responsive margin" style="display:inline" width="600" height="600" alt="Image"><br>
 								</div>
 								<div class="col-md-5 text-justify">
 									<h5>Finalmente, cuando ya nos quede la &uacute;ltima secci&oacute;n a enlazar, debemos seleccionar s&oacute;lo "a&ntilde;adir m&eacute;todo", se enlaza esta &uacute;ltima y volvemos al curso.<br><br>

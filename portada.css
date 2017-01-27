@@ -2,11 +2,11 @@
   .bg-1 { 
       background-color: #00AEEF;
       color: #ffffff;
-      padding-bot:90px;
   }
   .bg-2 { 
       background-color: #474e5d; /* Dark Blue */
       color: #ffffff;
+      padding-bot:90px;
   }
   .bg-3 { 
       background-color: #ffffff; /* White */
@@ -37,5 +37,8 @@
       color: #ffffff;
 }
 .rol{
+	font-size:35px !important;
+}
+.vids{
 	font-size:35px !important;
 }

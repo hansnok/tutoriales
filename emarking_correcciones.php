@@ -1,5 +1,5 @@
 <div id="Correccion" class="row">
-		<div class="well">Correccion en linea</div>
+		<div class="well"><span class="glyphicon glyphicon-pencil tutorial"></span> Correccion en linea</div>
 		<div class="container">
   			<div class="panel-group" id="collapsible_Correccion">
     			<div class="panel">

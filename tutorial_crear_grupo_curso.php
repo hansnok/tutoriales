@@ -1,5 +1,5 @@
 	<div id="Grupos" class="row">
-		<div class="well">Creacion de Grupos dentro de un curso</div>
+		<div class="well"><span class="glyphicon glyphicon-user tutorial"></span> Creacion de Grupos dentro de un curso</div>
 		<div class="container">
   			<div class="panel-group" id="collapsible_Grupos">
     			<div class="panel">
@@ -12,7 +12,7 @@
         				<div class="panel-body">
         					<div class="row">
 								<div class="col-md-7">
-									<img src="images/Crear_Grupos_1.png" class="img-responsive margin" style="display:inline" width="350" height="350" alt="Image"><br>
+									<img src="images/Crear_Grupos_1.PNG" class="img-responsive margin" style="display:inline" width="350" height="350" alt="Image"><br>
 								</div>
 								<div class="col-md-5 text-justify">
 									<h5><ul>
@@ -35,7 +35,7 @@
         				<div class="panel-body">
             				<div class="row">
             					<div class="col-md-7">
-            						<img src="images/Crear_Grupos_2.png" class="img-responsive margin" style="display:inline" width="350" height="350" alt="Image"><br>
+            						<img src="images/Crear_Grupos_2.PNG" class="img-responsive margin" style="display:inline" width="350" height="350" alt="Image"><br>
             					</div>
             					<div class="col-md-5 text-justify">
         							<ul>

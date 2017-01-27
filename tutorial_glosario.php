@@ -1,6 +1,6 @@
 			<div id="Glosario" class="row">
 				<div class="well">
-					Para que sirve el Glosario
+					<span class="glyphicon glyphicon-book tutorial"></span> Para que sirve el Glosario
 				</div>
 				<div class="container">
 					<div class="row">
@@ -28,7 +28,7 @@
 								<div class="panel-body">
 									<div class="row">
 										<div class="col-md-7">
-											<img src="images/Glosario_1.png"
+											<img src="images/Glosario_1.PNG"
 												class="img-responsive margin" style="display: inline"
 												width="800" height="800" alt="Image"><br>
 										</div>
@@ -54,7 +54,7 @@
 								<div class="panel-body">
 									<div class="row">
 										<div class="col-md-7">
-											<img src="images/Glosario_2.png"
+											<img src="images/Glosario_2.PNG"
 												class="img-responsive margin" style="display: inline"
 												width="800" height="800" alt="Image"><br>
 										</div>

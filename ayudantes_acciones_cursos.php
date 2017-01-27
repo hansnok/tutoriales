@@ -26,25 +26,25 @@
     	<div class="col-md-3 text-center">
     		<a  href="#Agregar">
     		<h3>Agregar una actividad o recurso</h3>
-      		<span class="glyphicon glyphicon-font"></span>
+      		<span class="glyphicon glyphicon-font icono"></span>
     		</a><br><br><p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n sobre como agregar una actividad a su curso.</p>
    		</div>
     	<div class="col-md-3 text-center">
     		<a  href="#Archivo">
     		<p><h3>Subir un archivo</h3></p>
-      		<br><span class="glyphicon glyphicon-upload"></span>
+      		<br><span class="glyphicon glyphicon-upload icono"></span>
     		</a><br><br><p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n sobre como subir un archivo.</p>
     	</div>
     	<div class="col-md-3 text-center">
     		<a  href="#Encuesta">
     		<p><h3>Crear una encuesta</h3></p>
-     	 	<br><span class="glyphicon glyphicon-list-alt"></span>
+     	 	<br><span class="glyphicon glyphicon-list-alt icono"></span>
     		</a>      <br><br><p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n sobre como crear una encuesta.</p>
     	</div>
     	<div class="col-md-3 text-center">
     		<a href="#Cuestionario">
     		<p><h3>Configurar un cuestionario</h3></p>
-      		<span class="glyphicon glyphicon-align-justify"></span>
+      		<span class="glyphicon glyphicon-align-justify icono"></span>
     		</a><br><br><p>Aqu&iacute; podr&aacute; encontrar informaci&oacute;n sobre como crear y configurar un cuestionario.</p>
    		</div>
 	</div>

@@ -2,7 +2,7 @@
 		<br>
 		<div class="row">
 			<div class="well">
-				Convertir archivo de Word a PDF
+				<span class="glyphicon glyphicon-file tutorial"></span> Convertir archivo de Word a PDF
 			</div>
 			<div class="container">
 				<div class="panel-group" id="collapsible_PDF">
@@ -17,7 +17,7 @@
 						<div id="PDF1" class="panel-collapse collapse in">
 							<div class="panel-body">
 								<div class="col-md-7">
-									<img src="images/PDF_1.png" class="img-responsive margin"
+									<img src="images/PDF_1.PNG" class="img-responsive margin"
 										style="display: inline" width="800" height="800" alt="Image"><br>
 								</div>
 								<div class="col-md-5 text-justify">
@@ -39,7 +39,7 @@
 						<div id="PDF2" class="panel-collapse collapse">
 							<div class="panel-body">
 								<div class="col-md-7">
-									<img src="images/PDF_2.png" class="img-responsive margin"
+									<img src="images/PDF_2.PNG" class="img-responsive margin"
 										style="display: inline" width="800" height="800" alt="Image"><br>
 								</div>
 								<div class="col-md-5 text-justify">

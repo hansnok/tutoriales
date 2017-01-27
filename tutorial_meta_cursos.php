@@ -1,5 +1,5 @@
 	<div id="Metacurso" class="row">
-		<div class="well">Metacurso</div>
+		<div class="well"><span class="glyphicon glyphicon-pencil tutorial"></span> Metacurso</div>
 		<div class="container">
   			<div class="panel-group" id="collapsible_Metacurso">
     			<div class="panel">
@@ -12,7 +12,7 @@
         				<div class="panel-body">
         					<div class="row">
         						<div class="col-md-7">
-									<img src="images/Metacurso_1.png" class="img-responsive margin" style="display:inline" width="600" height="600" alt="Image"><br>
+									<img src="images/Metacurso_1.PNG" class="img-responsive margin" style="display:inline" width="600" height="600" alt="Image"><br>
 								</div>
 								<div class="col-md-5 text-justify">
 									<h5>Entrar a Webcursos, hacer click en "todos los cursos" y luego seleccionar la categor&iacute;a "Pregrado".</h5>
@@ -31,7 +31,7 @@
         				<div class="panel-body">
             				<div class="row">
 								<div class="col-md-7">
-									<img src="images/Metacurso_2.png" class="img-responsive margin" style="display:inline" width="650" height="650" alt="Image"><br>
+									<img src="images/Metacurso_2.PNG" class="img-responsive margin" style="display:inline" width="650" height="650" alt="Image"><br>
 								</div>
 								<div class="col-md-5 text-justify">
 									<h5>Una vez dentro, se debe seleccionar la sede correspondiente, a&ntilde;o y semestre en curso.</h5>
@@ -50,7 +50,7 @@
         				<div class="panel-body">
             				<div class="row">
 								<div class="col-md-7">
-									<img src="images/Metacurso_3.1.png" class="img-responsive margin" style="display:inline" width="350" height="350" alt="Image"><br>
+									<img src="images/Metacurso_3.1.PNG" class="img-responsive margin" style="display:inline" width="350" height="350" alt="Image"><br>
 								</div>
 								<div class="col-md-5 text-justify">
 									<h5>Ir alfinal de la p&aacute;gina y crear un nuevo curso</h5>
@@ -59,7 +59,7 @@
         					<hr class="featurette-divider"/>
         					<div class="row">
         						<div class="col-md-7">
-        							<img src="images/Metacurso_3.2.png" class="img-responsive margin" style="display:inline" width="350" height="350" alt="Image"><br>
+        							<img src="images/Metacurso_3.2.PNG" class="img-responsive margin" style="display:inline" width="350" height="350" alt="Image"><br>
         						</div>
         						<div class="col-md-5 text-justify">
         							<h5>Ingresar datos correspondientes</h5>
@@ -68,7 +68,7 @@
         					<hr class="featurette-divider"/>
         					<div class="row">
         						<div class="col-md-7">
-        							<img src="images/Metacurso_3.3.png" class="img-responsive margin" style="display:inline" width="350" height="350" alt="Image"><br>
+        							<img src="images/Metacurso_3.3.PNG" class="img-responsive margin" style="display:inline" width="350" height="350" alt="Image"><br>
         						</div>
         						<div class="col-md-5 text-justify">
         							<h5>Guardar los cambios realizados, y matricular al profesor encargado de este curso.</h5>

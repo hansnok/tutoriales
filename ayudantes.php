@@ -2,6 +2,7 @@
 <?php include("header.php")?>
 <link rel="stylesheet" href="estilo.css">
 <body>
+<div class="wrapper">
 <div class="jumbotron text-center">
   <h1><span class="glyphicon glyphicon-book"></span> Ayudantes</h1>
   	<p>Los Ayudantes pueden crear actividades y evaluaciones en webcursos.</p>
@@ -10,8 +11,8 @@
 			<div class="row">
 				<div class="col-sm-6">
 					<div class="feature-item">
-						<h4><span class="glyphicon glyphicon-play"></span><a href="ayudantes_acciones_cursos.php"> Acciones dentro de un curso</h4></a>
-						<p>Subir archivos, crear actividades o recursos.</p>
+						<h4><span class="glyphicon glyphicon-play"></span><a class="tutorial_titulo" href="ayudantes_acciones_cursos.php"> Acciones dentro de un curso</h4></a>
+						<p class="tutorial_description">Subir archivos, crear actividades o recursos.</p>
 					</div>
 				</div>
 			</div>
@@ -33,5 +34,6 @@
 	</div>
 </div>
 <br><br>
+</div>
 <?php include("footer.php")?>
 </body>

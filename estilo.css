@@ -162,6 +162,11 @@ a.dest:hover div
 	height:11%;
 
 }
+.wrapper {
+    min-height: 100%;
+    margin-bottom: -80px;
+    padding-bottom: 80px;
+}
 #foot
 {
     background-color: #000;
@@ -197,4 +202,10 @@ a.dest:hover div
 {
 	padding-top:15px;
 	float:left;
+}
+.tutorial_titulo{
+	font-size: 22px !important;
+}
+.tutorial_description{
+	font-size:16px !important;
 }
