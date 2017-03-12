@@ -2,9 +2,9 @@
 <?php include("header.php")?>
 <link rel="stylesheet" href="portada.css">
 <link rel="stylesheet" href="estilo.css">
+<link href=“/bootstrap/css/bootstrap-tour.min.css” rel=“stylesheet">
+<script src="bootstrap/js/bootstrap-tour.min.js"></script>
 <script src="bootstrap/js/youtube.js"></script>
-<script src="bootstrap/js/bootstro.min.js"></script>
-<link rel="stylesheet" href="bootstro.min.css">
 <body>
 	<div class="jumbotron text-center">
 		<h1 class="bootstro">
@@ -14,10 +14,11 @@
 			&aacute;reas y roles que se tienen en webcursos junto con videos
 			explicativos.</p>
 	</div>
+	
 	<!-- Roles -->
 	<div class="bg-2">
 		<div class="container text-center" style="margin-bottom: 20px">
-			<h3 class="rol"><b>ROLES</b></h3>
+			<h3 class="rol one"><b>ROLES</b></h3>
 				<h4>Aqu&iacute; podr&aacute; encontrar los distintos roles para los
 				cuales ofrecemos tutoriales<br></h4>
 				<br>
@@ -68,7 +69,7 @@
 	<div class="bg-1">
 		<div class="container text-center" style="margin-bottom: 20px">
 			<div class="row">
-			<h3 class="rol"><b>Testimonios</b></h3>
+			<h3 class="rol two"><b>Testimonios</b></h3>
 				<h4>Vea los distintos testimonios de profesores sobre webcursos</h4>
 				<div class="row">
 					<div class="col-md-4">
@@ -96,7 +97,7 @@
 	<!-- Ultimos tutoriales agregados -->
 	<div class="bg-3">
 	<div class="container text-center">
-		<h3 class="margin vids">&Uacute;ltimos tutoriales multimedia agregados</h3>
+		<h3 class="margin vids three">&Uacute;ltimos tutoriales multimedia agregados</h3>
 		<h4>Estos son los ultimos videos agregados al <a href="https://www.youtube.com/channel/UCgP-Uk-fjyjoFwmfNEATZcA"> canal de Webcursos</a> al cual puede acceder si hace click en el nombre. </h4>
 	<div id="results" class="text-center">
 	</div>
@@ -109,4 +110,30 @@
 $(document).ready(function(){
 		bootstro.start(selector, options);
 });
+
+var tour = new Tour({
+	  steps: [
+	  {
+	    element: ".one",
+	    title: "Bienvenido",
+	    content: "Bienvenido a Webc tutoriales, aqu&iacute; podr&aacute; seleccionar el rol al cual pertenece para encontrar los tutoriales correspondientes a este."
+	  },
+	      {
+	    element: ".two",
+	    title: "Testimonios",
+	    content: "Averigue que es Webcursos y que permite en los diferentes testimonios de profesores."
+	  },
+	 	 {
+		    element: ".three",
+		    title: "&Uacute;ltimos tutoriales",
+		    content: "En esta seccion podr&aacute; encontrar los &uacute;ltimos tutoriales multimedia agregados a la plataforma."
+		  }
+	],
+	  backdrop: true,
+	  storage: false
+	});
+
+	tour.init();
+
+	tour.start();
 </script>
